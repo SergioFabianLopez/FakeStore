@@ -1,0 +1,21 @@
+/* navbar.component.css */
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+
+.nav-link {
+    color: #ffffff !important;
+    font-size: 1.2rem;
+}
+
+.nav-link:hover {
+    color: #cccccc !important;
+}
+
+.active {
+    color: #ffffff !important;
+}
